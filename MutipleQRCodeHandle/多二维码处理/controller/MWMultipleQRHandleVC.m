@@ -2,7 +2,7 @@
 //  MWMultipleQRHandleVC.m
 //  MutipleQRCodeHandle
 //
-//  Created by Horizon on 29/3/2022.
+//  Created by MorganWang  on 29/3/2022.
 //
 
 #import "MWMultipleQRHandleVC.h"
